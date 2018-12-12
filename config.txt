@@ -1,0 +1,6 @@
+﻿token=NTE2OTAxNzU.shadow........ token al bot  
+owner=3...shadow..... id owner
+prefix= $
+game= !$help
+stayinchannel=true
+songinstatus=true 
