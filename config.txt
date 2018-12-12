@@ -1,6 +1,6 @@
-﻿token=NTE2OTAxNzU.shadow........ token al bot  
-owner=3...shadow..... id owner
-prefix= $
-game= !$help
+token=NTIyMzkyNTkxNzcwMTg5ODc0.DvKVzA.YNzpmpGgJshituDs_cwPeETXY0Q  
+owner=517300611729850369
+prefix= !
+game= !help
 stayinchannel=true
 songinstatus=true 
